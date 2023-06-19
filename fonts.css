@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'Install';
+    src: url('../components/fonts/Install.ttf') format('woff2');
+        
+         font-weight: bold;
+         font-style: normal;
+}
